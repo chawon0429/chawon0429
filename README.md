@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Stacks
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chawon0429&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chawon0429&layout=compact)
